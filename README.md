@@ -4,12 +4,15 @@ constexpr struct {
     auto name    = "Unrays";              
     auto title   = "CatnipCompiler";   
     auto born    = "2006-05-09";          
-    auto skills[]{"C++ ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)","C#","Java","JavaScript","HTML","CSS","SQL","Dart","Python","TypeScript","Lua"};  
+    auto skills[]{"C++","C#","Java","JavaScript","HTML","CSS","SQL","Dart","Python","TypeScript","Lua"};  
     auto tools[]{"VS Code","clang","Git","CMake","Docker"}; 
     constexpr auto motto(){ return "Talk is cheap, show me the code."; }
 } profile{};
   </pre>
 </p>
+
+---
+
 <p align="center">
   <code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
   <code><img height="20" alt="C#" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
