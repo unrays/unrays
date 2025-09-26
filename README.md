@@ -20,7 +20,6 @@ constexpr struct {
   <code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
   <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
   <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-  <code><img height="20" alt="SQL" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
   <code><img height="20" alt="Dart" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code>
   <code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
