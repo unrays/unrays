@@ -1,15 +1,15 @@
 <p align="center">
-  <pre style="font-family:monospace; font-size:14px; text-align:center; color:#c0c0c0;">
+  <h1 style="font-family:monospace; color:#00b894;">Unrays</h1>
+  <em style="color:gray;">Digital Alchemist · Code as Art</em>
+</p>
+
+---
+
 constexpr struct {
-    auto name   = "Unrays";
-    auto title  = "Digital Alchemist";
-    auto born   = "2025-09-25";
     auto skills[]{"C++","C#","Python","Rust"};
     auto tools[]{"VS Code","clang","Git","CMake","Docker"};
     constexpr auto motto(){ return "Talk is cheap, show me the code."; }
 } profile{};
-  </pre>
-</p>
 
 ---
 
