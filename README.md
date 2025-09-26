@@ -1,35 +1,25 @@
 <p align="center">
-  <a href="https://github.com/Unrays">
-    <img width="80%" alt="Hello, I'm Unrays" src="./assets/gh-readme-header.png" />
-  </a>
+  <img width="80%" alt="Unrays — Code as Art" src="./assets/unrays-header.png" />
 </p>
-
-<br />
-
-I'm a passionate self-taught developer exploring the realms of code ⚡
-
-**About me**
-
-- 💼 Aspiring Software Engineer  
-- 📚 Exploring systems, C++, game engines, and procedural generation  
-- ❤️ I love deep code, architecture design, and creative programming  
-- 💬 Ask me about anything [here](https://github.com/Unrays)
-
-<code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-<code><img height="20" alt="c#" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-<code><img height="20" alt="rust" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png"></code>
 
 ---
 
-### Profile as code
+## 👋 Hello, I'm Unrays
+
+I code with passion 🎯 —  
+exploring **systems architecture**, **procedural generation**, and the **art of clean code**.
+
+I believe code is not just logic, it’s art.
+
+---
+
+### ⚙️ Profile as Code
 ```cpp
-constexpr struct Profile{
+constexpr struct {
     auto name="Unrays"
-        ,created="2025-09-25"
-        ,location="Digital Realm";
-    const char* skills[]{"C++","C#","Java","JavaScript","Dart","SQL","Python"};
+        ,born="2025-09-25"
+        ,realm="Digital Realm";
+    const char* skills[]{"C++","C#","Python","Rust","SQL"};
     const char* tools[]{"VS Code","clang","Git","CMake","Docker"};
     constexpr auto motto(){ return "Talk is cheap, show me the code."; }
 } profile{};
