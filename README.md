@@ -2,8 +2,8 @@
   <pre style="font-family:monospace; font-size:14px; text-align:center; color:#c0c0c0;">
 constexpr struct {
     auto name    = "Unrays";              
-    auto title   = "Digital Alchemist";   
-    auto born    = "2025-09-25";          
+    auto title   = "CatnipCompiler";   
+    auto born    = "2006-05-09";          
     auto skills[]{"C++","C#","Java","JavaScript","HTML","CSS","SQL","Dart","Python","TypeScript","Lua"};  
     auto tools[]{"VS Code","clang","Git","CMake","Docker"}; 
     constexpr auto motto(){ return "Talk is cheap, show me the code."; }
@@ -39,5 +39,5 @@ constexpr struct {
 
 <p align="center" style="font-style:italic; color:#aaaaaa; margin-top:20px;">
 “Code is art. Make it beautiful.” — Unrays  
-<span style="font-size:12px; color:#777;">💡 Every line matters.</span>
+<span style="font-size:12px; color:#ffb733;">💡 Every line matters.</span>
 </p>
