@@ -37,6 +37,7 @@ constexpr struct {
 ---
 
 <p align="center" style="font-style:italic; color:#aaaaaa; margin-top:20px;">
-“Code is art. Make it beautiful.” — Unrays  
-<span style="font-size:12px; color:#ffb733;">💡 Every line matters.</span>
+“Talk is cheap, show me the code."  
+<span style="font-size:12px; color:#ffb733;">
+</span>
 </p>
