@@ -20,7 +20,7 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/unrays">
-    <img width="32px" alt="Dev.to" title="Dev.to" src="https://cdn.simpleicons.org/dev-dot-to/FFA500"/>
+    <img width="32px" alt="Dev.to" title="Dev.to" src="https://cdn.simpleicons.org/devdotto/FFA500"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/unrays">
@@ -28,9 +28,15 @@
   </a>
 </p>
 
-<!-- Stats badges -->
+<!-- Stats badges stylisés -->
 <p align="center">
-  <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/unrays?color=FFA500&style=for-the-badge&labelColor=000000&logo=star" />
-  <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/unrays?color=FFA500&style=for-the-badge&labelColor=000000&logo=person-add&label=Follow&logoColor=white" />
-  <img alt="Profile Views" src="https://custom-icon-badges.demolab.com/badge/Profile%20Views-0-FFA500?style=for-the-badge&logo=eye" />
+  <a href="https://github.com/unrays?tab=repositories&sort=stargazers">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/unrays?color=FFA500&labelColor=1A1A1A&style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/unrays?tab=followers">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/unrays?color=FFA500&labelColor=1A1A1A&style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/unrays">
+    <img alt="Profile Views" src="https://img.shields.io/badge/Profile_Views-0-FFA500?style=for-the-badge&logo=eye"/>
+  </a>
 </p>
