@@ -31,12 +31,19 @@
 <!-- Stats badges stylisés -->
 <p align="center">
   <a href="https://github.com/unrays?tab=repositories&sort=stargazers">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/unrays?color=FFA500&labelColor=1A1A1A&style=for-the-badge&logo=github"/>
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/unrays?color=FFA500&labelColor=000000&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/unrays?tab=followers">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/unrays?color=FFA500&labelColor=1A1A1A&style=for-the-badge&logo=github"/>
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/unrays?color=FFA500&labelColor=000000&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/unrays">
-    <img alt="Profile Views" src="https://img.shields.io/badge/Profile_Views-0-FFA500?style=for-the-badge&logo=eye"/>
+    <img alt="Profile Views" src="https://img.shields.io/badge/Profile_Views-0-FFA500?style=for-the-badge&logo=eye&logoColor=white"/>
   </a>
 </p>
+
+<!-- Style additionnel -->
+<style>
+  p[align="center"] img {
+    margin: 0 8px;
+  }
+</style>
