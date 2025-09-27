@@ -32,7 +32,6 @@ I’m a passionate programmer from Québec 🇨🇦
 <code><img height="20" alt="Lua" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png"></code>
 <code><img height="20" alt="HTML" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
 <code><img height="20" alt="CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="20" alt="SQL" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
 <code><img height="20" alt="Dart" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code>
 <code><img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 
