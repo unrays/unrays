@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Coding%20with%20nine%20lives;Sleeping%20on%20bugs,%20dreaming%20of%20features;Cat%20logic:%20If%20it%20works,%20it%E2%80%99s%20magic;Napping%20until%20pull%20requests%20arrive;Meow%E2%80%99s%20the%20time%20to%20push&font=Fira%20Code&center=true&width=700&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Coding%20with%20nine%20lives;Ctrl+Alt+Purr;Syntax%20error%3F%20Cat%20nap%20mode;Git%20push%20and%20purr;Tail-tracking%20commits&font=Fira%20Code&center=true&width=700&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
+
 
 
   </a>
