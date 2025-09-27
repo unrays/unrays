@@ -19,11 +19,7 @@ I’m a passionate programmer from Québec 🇨🇦
 
 - 💡 Passionate about programming, software architecture, and creative problem-solving
 
-- ❤️ Enthusiast of C++, baroque music with a deep passion for Bach, and high-performance PC hardware
-
-- 🌱 Lifelong learner driven by curiosity
-
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/unrays/unrays/issues)
 
 <code><img height="20" alt="C++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
 <code><img height="20" alt="C#" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
