@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&center=true&width=700&lines=Hello,+I'm+Unrays;Coding+with+nine+lives;Ctrl+Alt+Purr" />
 </p>
 
+<!-- Icônes sociales -->
 <p align="center">
   <a href="https://github.com/unrays">
     <img width="32px" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/FFA500"/>
@@ -40,10 +41,3 @@
     <img alt="Profile Views" src="https://img.shields.io/badge/Profile_Views-0-FFA500?style=for-the-badge&logo=eye&logoColor=white"/>
   </a>
 </p>
-
-<!-- Style additionnel -->
-<style>
-  p[align="center"] img {
-    margin: 0 8px;
-  }
-</style>
