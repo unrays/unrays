@@ -33,23 +33,21 @@ I’m a passionate programmer from Québec 🇨🇦
 
 | <a href="https://github.com/unrays/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=unrays&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Unrays's github stats" /></a> | <a href="https://github.com/unrays/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrays&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
 #### Top Repositories
 
-
-<a href="https://github.com/unrays/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unrays&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/unrays/CrystalEngine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unrays&repo=crystal&theme=buefy" />
 </a>
-<a href="https://github.com/unrays">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unrays&repo=unrays.github.io&theme=buefy" />
+<a href="https://github.com/unrays/glint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unrays&repo=AnotherRepo&theme=buefy" />
 </a>
 
 <br />
 <br />
 
 <a href="https://twitter.com/unrays">
-  <img align="right" alt="Unrays | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="Unrays | Twitter" width="21px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/unrays">
-  <img align="right" alt="Unrays | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="right" alt="Unrays | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codesandbox.svg" />
 </a>
