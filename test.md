@@ -24,17 +24,10 @@
 </p>
 
 <br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unrays&hide=prs,issues&count_private=true&show_icons=true&hide_title=true&hide_rank=true)
 
-<!-- Social badges section -->
-<p align="center">
-  <a href="https://www.youtube.com/c/unrays?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php?channel=unrays"/></a>
-  <a href="https://www.youtube.com/c/unrays">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php?channel=unrays"/></a>
-  <a href="https://github.com/unrays?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/unrays?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&logoColor=white"/></a>
-  <a href="https://github.com/unrays?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/unrays?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/unrays">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views?user=unrays"/></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=unrays)
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=unrays)
+
+![U8Views](https://u8views.com/api/v1/github/profiles/unrays/views/day-week-month-total-count.svg)
