@@ -24,10 +24,20 @@
 </p>
 
 <br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unrays&hide=prs,issues&count_private=true&show_icons=true&hide_title=true&hide_rank=true)
+<p align="center">
+  <a href="https://github.com/unrays">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=unrays&show_icons=true&theme=radical&count_private=true" />
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=unrays)
-
-![Views Counter](https://views-counter.vercel.app/badge?pageId=unrays)
-
-![U8Views](https://u8views.com/api/v1/github/profiles/unrays/views/day-week-month-total-count.svg)
+<p align="center">
+  <a href="https://github.com/unrays">
+    <img alt="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/unrays?color=ff69b4&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/unrays?tab=followers">
+    <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/unrays?color=36BCF7&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=unrays">
+    <img alt="Profile Views" src="https://custom-icon-badges.demolab.com/github/views/unrays?color=yellow&style=for-the-badge" />
+  </a>
+</p>
