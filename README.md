@@ -11,9 +11,9 @@ I’m a passionate programmer from Québec 🇨🇦
 
 **About me**
 
-- 🎹 Pianist with 11 years of classical training, graduate of the Conservatory of Rimouski
-
 - 🎓 In my third and final year of a Computer Science DEC-BAC at Cégep de Rimouski
+
+- 🎹 Pianist with 11 years of classical training, graduate of the Conservatory of Rimouski
 
 - ⚙️ Six years of self-learning in PC hardware, specializing in advanced custom builds and mods
 
