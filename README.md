@@ -35,7 +35,7 @@ I’m a passionate programmer from Québec 🇨🇦
 | ------------- | ------------- |
 #### Top Repositories
 
-<a href="https://github.com/unrays/CrystalEngine">
+<a href="https://github.com/unrays/Crystal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unrays&repo=crystal&theme=buefy" />
 </a>
 <a href="https://github.com/unrays/Glint">
