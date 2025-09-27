@@ -10,13 +10,13 @@
 
 <!-- Social icons section -->
 <p align="center">
-[  <a href="https://github.com/unrays"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/1XxSh7v.png"/></a>](https://github.com/DenverCoder1/custom-icon-badges --> <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->)
+  <a href="https://github.com/unrays"><img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/1XxSh7v.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/unrays"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/unrays"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/tonLienDiscord" alt="Discord" title="Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/tonLienDiscord"><img width="32px" alt="Discord" title="Discord Server" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/unrays"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
