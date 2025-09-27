@@ -39,7 +39,7 @@ I’m a passionate programmer from Québec 🇨🇦
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unrays&repo=crystal&theme=buefy" />
 </a>
 <a href="https://github.com/unrays/Glint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unrays&repo=AnotherRepo&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unrays&repo=Glint&theme=buefy" />
 </a>
 
 <br />
