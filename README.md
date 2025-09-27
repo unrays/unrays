@@ -33,12 +33,12 @@ I’m a passionate programmer from Québec 🇨🇦
 
 <table>
   <tr>
-    <td style="border: 4px solid #ff0000; padding: 5px;">
+    <td style="border: 4px solid #ffae42; padding: 5px;">
       <a href="https://github.com/unrays/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=unrays&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=ffffff&title_color=ffae42&icon_color=ffae42&text_color=333" alt="Unrays's github stats" />
       </a>
     </td>
-    <td style="border: 4px solid #ff0000; padding: 5px;">
+    <td style="border: 4px solid #ffae42; padding: 5px;">
       <a href="https://github.com/unrays/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrays&layout=compact&theme=buefy&hide_border=true&bg_color=ffffff&title_color=ffae42&text_color=333" />
       </a>
