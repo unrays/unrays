@@ -1,7 +1,9 @@
-<!-- HEADER avec typing animation -->
+<!-- HEADER avec animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f75c7e&center=true&width=800&lines=Hello,+I'm+Unrays;Coding+with+nine+lives;Ctrl+Alt+Purr;Debugging+with+style" />
 </p>
+
+---
 
 <!-- ICÔNES SOCIALES -->
 <p align="center">
@@ -32,7 +34,7 @@
 
 ---
 
-<!-- MODULE STATS PERSONNALISÉ -->
+<!-- MODULE STATS -->
 <p align="center">
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/unrays?color=FFA500&label=Stars&labelColor=000000&style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/unrays?color=FFA500&label=Followers&labelColor=000000&style=for-the-badge&logo=github&logoColor=white"/>
@@ -42,7 +44,7 @@
 
 ---
 
-<!-- IMAGE DE PROFIL ET CITATION -->
+<!-- IMAGE DE PROFIL & CITATION -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Unrays" width="180" style="border-radius:50%;"/>
 </p>
