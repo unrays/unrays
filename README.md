@@ -31,13 +31,10 @@ I’m a passionate programmer from Québec 🇨🇦
 <code><img height="20" alt="Dart" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></code>
 <code><img height="20" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 
-| <a href="https://github.com/unrays/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=unrays&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=ffffff&title_color=ffae42&icon_color=ffae42&text_color=333" alt="Unrays's github stats" />
-  </a> 
-| <a href="https://github.com/unrays/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrays&layout=compact&theme=buefy&hide_border=true&bg_color=ffffff&title_color=ffae42&text_color=333" />
-  </a> |
+| <a href="https://github.com/unrays/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=unrays&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=ffae42&icon_color=ffae42&text_color=333&bg_color=ffffff" alt="Unrays's github stats" /></a> 
+| <a href="https://github.com/unrays/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrays&layout=compact&theme=buefy&hide_border=true&title_color=ffae42&text_color=333&bg_color=ffffff" /></a> |
 | ------------- | ------------- |
+
 #### Top Repositories
 
 <a href="https://github.com/unrays/Crystal">
