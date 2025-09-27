@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <!-- Typing SVG with 10 cat-style greetings -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Cat-powered%20coder;Meowdy%20coder;Hello%20human;Paws%20up%20coder;Clawing%20code%20daily;Meow%20and%20ship%20it;Purr-fect%20code%20zone;Cat%20logic%20inside;Meowtivation%20high;Cat%20mode%20active&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Coding%20like%20a%20cat;Purring%20through%20bugs;Debugging%20with%20whiskers;Purrfect%20commits;Clawing%20through%20code;Catnip-powered%20functions;Napping%20while%20compiling;Paws%20over%20problems;Cats%20run%20this%20repo;Meow%20and%20ship%20it&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+
 
 <!-- Social icons section -->
 <p align="center">
