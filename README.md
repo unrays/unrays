@@ -2,7 +2,7 @@ p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="H
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I’m a passionate programmer from Québec, Canada 🇨🇦
 
 **About me**
 
