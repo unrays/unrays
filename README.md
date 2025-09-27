@@ -7,7 +7,7 @@
 
 <br />
 
-I’m a passionate programmer from Québec, Canada 🇨🇦
+I’m a passionate programmer from Québec 🇨🇦
 
 **About me**
 
