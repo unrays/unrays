@@ -4,13 +4,8 @@
   </a>
 </p>
 
-<h1 align="center">Unrays</h1>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Coding%20with%20nine%20lives;Ctrl+Alt+Purr;Syntax%20error%3F%20Cat%20nap%20mode;Git%20push%20and%20purr;Tail-tracking%20commits&font=Fira%20Code&center=true&width=700&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
-
-
-
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Coding%20with%20nine%20lives;Ctrl+Alt+Purr;Syntax%20error%3F%20Cat%20nap%20mode;Git%20push%20and%20purr;Tail-tracking%20commits&font=Fira+Code&center=true&width=700&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 
 
