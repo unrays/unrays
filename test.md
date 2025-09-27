@@ -43,12 +43,3 @@
 </p>
 
 ---
-
-<!-- IMAGE DE PROFIL & CITATION -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Unrays" width="180" style="border-radius:50%;"/>
-</p>
-
-<p align="center" style="font-size:1.1em; color:#FFA500;">
-  "Code is poetry, debugging is art" — Unrays
-</p>
