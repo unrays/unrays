@@ -5,27 +5,27 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://github.com/unrays">
-    <img width="32px" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" style="filter: invert(56%) sepia(84%) saturate(439%) hue-rotate(1deg) brightness(98%) contrast(101%);" />
+    <img width="32px" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" style="color:#FFA500;"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/unrays">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" style="filter: invert(56%) sepia(84%) saturate(439%) hue-rotate(1deg) brightness(98%) contrast(101%);" />
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" style="color:#FFA500;"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/unrays">
-    <img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" style="filter: invert(56%) sepia(84%) saturate(439%) hue-rotate(1deg) brightness(98%) contrast(101%);" />
+    <img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" style="color:#FFA500;"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/tonLienDiscord">
-    <img width="32px" alt="Discord" title="Discord Server" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" style="filter: invert(56%) sepia(84%) saturate(439%) hue-rotate(1deg) brightness(98%) contrast(101%);" />
+    <img width="32px" alt="Discord" title="Discord" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" style="color:#FFA500;"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/unrays">
-    <img width="32px" alt="Dev.to" title="Dev.to" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dev-dot-to.svg" style="filter: invert(56%) sepia(84%) saturate(439%) hue-rotate(1deg) brightness(98%) contrast(101%);" />
+    <img width="32px" alt="Dev.to" title="Dev.to" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dev-dot-to.svg" style="color:#FFA500;"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/unrays">
-    <img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kofi.svg" style="filter: invert(56%) sepia(84%) saturate(439%) hue-rotate(1deg) brightness(98%) contrast(101%);" />
+    <img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kofi.svg" style="color:#FFA500;"/>
   </a>
 </p>
 
