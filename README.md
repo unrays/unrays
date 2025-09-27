@@ -1,4 +1,9 @@
-<p align="center"><a href="[https://anuraghazra.github.io](https://github.com/unrays)"><img width="80%" alt="Hello, I'm Unrays. I do open source!" src="https://hips.hearstapps.com/hmg-prod/images/ginger-maine-coon-kitten-running-on-lawn-in-royalty-free-image-1719608142.jpg?crop=1xw:0.84415xh;0,0.185xh" /></a></p>
+<p align="center">
+  <a href="https://github.com/unrays">
+    <img width="80%" alt="Hello, I'm Unrays — I do open source!" 
+         src="https://hips.hearstapps.com/hmg-prod/images/ginger-maine-coon-kitten-running-on-lawn-in-royalty-free-image-1719608142.jpg?crop=1xw:0.84415xh;0,0.185xh" />
+  </a>
+</p>
 
 <br />
 
