@@ -1,0 +1,22 @@
+```java
+// Code by unrays - Reflector Pattern
+
+interface ISized { getSize() }
+interface IPrintable { print() }
+
+// Handlers
+class SmallFileSize implements ISized { getSize() -> return 10 }
+class LargeFileSize implements ISized { getSize() -> return 1000 }
+
+class ConsolePrinter implements IPrintable { print() -> print("Printing to console") }
+class FileLoggerPrinter implements IPrintable { print() -> print("Logging file content") }
+
+// Facade entity
+class FileEntity implements ISized, IPrintable {
+    sizeHandler: ISized
+    printHandler: IPrintable
+
+    getSize() -> delegate to sizeHandler.getSize()
+    print()   -> delegate to printHandler.print()
+}
+```
