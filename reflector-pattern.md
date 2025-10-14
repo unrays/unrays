@@ -5,11 +5,11 @@ So I came up with something I call the **Reflector Pattern**.
 ---
 
 ### Core idea:
-- Each entity (or facade) implements the same interfaces as its handlers  
-- Handlers contain all the data and logic, and implement those same interfaces  
-- The facade “reflects” the interfaces, overriding the methods and delegating them directly to the handlers  
-- Handlers can be swapped at runtime (hot-swap) without breaking the facade or client code  
-- Each handler does one thing well, full SOLID compliance  
+- Every entity (or facade) implements the same interfaces as its **handlers**.  
+- **Handlers** contain all the logic and data, and implement the same interfaces.  
+- The entity (or “reflector”) **mirrors** these interfaces, overriding methods and delegating calls directly to its handlers.  
+- Handlers can be **hot-swapped at runtime** without breaking the entity or client code.  
+- Each handler follows **SOLID principles** and focuses on a single responsibility. 
 
 ---
 
@@ -18,54 +18,106 @@ The client only talks to interfaces.
 The entity doesn’t “own” logic or data, it just mirrors the API and routes calls dynamically.  
 This gives you total modularity, polymorphism, and clean decoupling.
 
-It’s like a **Facade + Strategy**, but where the Facade actually implements the same interfaces as its strategies, becoming a “Reflector” of their behavior.
+It’s like a **Facade + Strategy**, but where the Facade actually implements the same interfaces as its strategies, becoming a true **Reflector** of their behavior.
 
-Also, unlike Composition over inheritance that lets you reuse behavior but still exposes internal components to the consumer. Reflector Pattern “reflects” the interfaces, so the entity is a true polymorphic proxy to its handlers, hiding the implementation entirely and allowing seamless runtime swapping.
 
-In the end, it’s essentially a design that takes a different approach, even though its underlying implementation still shares many similarities with Composition over Inheritance.
+Unlike typical **composition-over-inheritance**, which exposes internal components to clients, the Reflector **hides implementation entirely** while providing polymorphic behavior.  
+
+> Essentially, it’s a modified **Delegate Pattern**: instead of a single delegate, the entity can delegate multiple responsibilities dynamically, while keeping its API clean and fully polymorphic.  
+
 
 ---
 
-### Here’s an example:
+### Here’s an example: (Corrected example, the last one was misleading and incorrect)
 
 ```java
 // Code by unrays - Reflector Pattern
 
-// Handlers (strategies)
-class WalkHandler implements IMove { move() -> print("Walking") }
-class SwordAttackHandler implements IAttack { attack() -> print("Swing sword") }
+// Interfaces for file operations
+interface IReadable { void read(); }
+interface IWritable { void write(String data); }
+interface IDeletable { void delete(); }
 
-// Facade entity implements same interfaces
-class GameCharacter implements IMove, IAttack {
-    moveHandler: IMove
-    attackHandler: IAttack
+// Handlers: single responsibility
+class FileReadHandler implements IReadable {
+    @Override
+    public void read() { System.out.println("Reading file contents"); }
+}
 
-    move() -> moveHandler.move()
-    attack() -> attackHandler.attack()
+class FileWriteHandler implements IWritable {
+    @Override
+    public void write(String data) { System.out.println("Writing data: " + data); }
+}
+
+class FileDeleteHandler implements IDeletable {
+    @Override
+    public void delete() { System.out.println("Deleting file"); }
+}
+
+// Reflector: Entity that reflects multiple interfaces
+class FileEntity implements IReadable, IWritable, IDeletable {
+    IReadable readHandler;
+    IWritable writeHandler;
+    IDeletable deleteHandler;
+
+    @Override
+    public void read() { readHandler.read(); }
+    @Override
+    public void write(String data) { writeHandler.write(data); }
+    @Override
+    public void delete() { deleteHandler.delete(); }
+}
+
+// Client code sees only the interfaces
+class FileManager {
+    void operate(IReadable reader, IWritable writer, IDeletable deleter) {
+        reader.read();
+        writer.write("Hello World");
+        deleter.delete();
+    }
 }
 
 // Usage
-hero = new GameCharacter()
-hero.moveHandler = new WalkHandler()
-hero.attackHandler = new SwordAttackHandler()
+public class Main {
+    public static void main(String[] args) {
+        FileEntity myFile = new FileEntity();
 
-consumer.use(hero)  // Only sees IMove & IAttack interface
-hero.move()         // Walking
-hero.attack()       // Swing sword
+        // Assign handlers dynamically
+        myFile.readHandler = new FileReadHandler();
+        myFile.writeHandler = new FileWriteHandler();
+        myFile.deleteHandler = new FileDeleteHandler();
 
-// Hot-swap at runtime
-hero.moveHandler = new RunHandler()
-hero.move()         // Running
+        FileManager manager = new FileManager();
+        manager.operate(myFile, myFile, myFile);
+        // Output: Reading file contents
+        //         Writing data: Hello World
+        //         Deleting file
+
+        // Hot-swap handlers at runtime
+        myFile.readHandler = () -> System.out.println("Reading cached contents");
+        myFile.writeHandler = (data) -> System.out.println("Logging write: " + data);
+        myFile.deleteHandler = () -> System.out.println("Archiving file instead of deleting");
+
+        manager.operate(myFile, myFile, myFile);
+        // Output: Reading cached contents
+        //         Logging write: Hello World
+        //         Archiving file instead of deleting
+    }
+}
 
 ```
 
 ---
+### Key takeaways
+- **Reflector Pattern** enables runtime modularity and polymorphism in a robust, flexible way.  
+- Each handler focuses on a single responsibility, fully compliant with **SOLID principles**.  
+- The entity acts as a **polymorphic proxy**, completely hiding implementation details.  
+- Built on the **Delegate Pattern**, it supports multiple dynamic delegates transparently.  
+- This pattern provides a clear approach for highly modular systems requiring runtime flexibility.  
+- Feedback, improvements, or references to similar patterns are welcome.
 
-I haven’t come across a pattern that matches this exactly. Has anyone seen something similar, or could this be a new approach?
-I’d also love some feedback on this approach, it might be flawed, but I think it could be useful in certain situations.  
-I’m here to learn and to iterate on this thought, so be respectful in the comments :)
 
 > **Note:** I’m not 100% confident in my English explanation, so I used AI to help polish the text.  
 > That said, this fully reflects my original idea, and I can assure you that AI had nothing to do with the concept itself, just helping me explain it clearly. If you want to get in touch, I’m reachable via my [GitHub](https://github.com/unrays). I sincerely thank you for reading my post.
 
-Tags: #ReflectorPattern #SoftwareArchitecture #DesignPatterns #CleanArchitecture #SOLIDPrinciples #ModularDesign #RuntimePolymorphism #Programming #CodeDesign #ILoveCats #CodingIsLife #HotSwapEverything
+> **Tags:** #ReflectorPattern #DelegatePattern #SoftwareArchitecture #DesignPatterns #CleanArchitecture #SOLIDPrinciples #ModularDesign #RuntimePolymorphism #HotSwap #DynamicDelegation #Programming #CodeDesign #CodingIsLife
