@@ -13,7 +13,7 @@ I’m a passionate programmer from Québec 🇨🇦
 
 **About me**
 
-- 🎓 In my third and final year of a Computer Science DEC-BAC at Cégep de Rimouski
+- 🎓 In my 5th session of a Computer Science DEC-BAC at Cégep de Rimouski
 
 - 🎹 Pianist with 11 years of classical training, graduate of the Conservatory of Rimouski
 
