@@ -9,7 +9,7 @@ Faut bien que je flex à un moment ou à un autre non????
 
 <br />
 
-I’m a passionate programmer from Québec 🇨🇦
+I’m a passionate programmer from Rimouski, Québec 🇨🇦
 
 **About me**
 
