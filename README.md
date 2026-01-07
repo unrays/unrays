@@ -1,0 +1,73 @@
+# Hey, I'm Félix 👋
+C++ template & meta-programmer who also loves cats
+
+---
+
+## 🧑‍💻 About Me
+
+I'm **Félix**, 19, studying *Computer Science* at Cégep de Rimouski (DEC-BAC).  
+I'm mostly **self-taught**, learning through projects, experimentation, and exploration.
+
+
+I've had over **10 years of piano experience**, including several years at the conservatory, and I studied classical music in depth. I have a strong passion for **baroque music**, especially JS Bach.
+
+
+I started programming in **September 2023**, diving into **C++** and gradually exploring more advanced techniques. I began experimenting with **ECS engines in mid-October 2025** and **compile-time C++ techniques (TMP, CRTP, etc.) in mid-November 2025**, and I've been exploring them ever since.
+
+I've been exploring **PC hardware since 2019**, building and optimizing rigs, experimenting with **overclocking, benchmarking, and custom cooling solutions**, and doing **personal case modding** to push both performance and aesthetics.  
+
+I like looking under the hood of systems, figuring out how they work, and seeing if I can make them better.
+
+
+
+---
+
+## 💻 Skills
+
+**Languages:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=amd&logoColor=white)
+
+**Tools & Frameworks:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)  
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)  
+
+**Other Interests:**  
+![PC Hardware](https://img.shields.io/badge/PC-Hardware-6A5ACD?style=for-the-badge)  
+![Compile-Time Magic](https://img.shields.io/badge/TMP-C%2B%2B-FF69B4?style=for-the-badge)  
+
+---
+
+## 🚀 Projects
+
+| Project | Description |
+|---------|-------------|
+| [Linkly](https://github.com/unrays/Linkly) | C++ compile‑time library for building type‑safe operator pipelines and custom DSLs. |
+| [Mixin](https://github.com/unrays/Mixin) | Experimental compile‑time ECS engine using CRTP mixin stacks and zero‑overhead system pipelines. |
+| [Exotic](https://github.com/unrays/Exotic) | Meta‑programming focused ECS engine exploring advanced component patterns. |
+| [Wave](https://github.com/unrays/Wave) | High‑performance minimal C++ ECS designed for cache‑friendly entity management. |
+| [Apex](https://github.com/unrays/Apex) | Step‑by‑step ECS experiments in C#. |
+| [Quark](https://github.com/unrays/Quark) | Modular C# game engine with service‑oriented architecture for event‑based systems. |
+
+
+
+---
+
+## 📫 Contact
+- GitHub: [https://github.com/unrays](https://github.com/unrays)  
+- Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=unrays&show_icons=true&theme=radical)
