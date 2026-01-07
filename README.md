@@ -10,8 +10,8 @@ I started programming in **September 2023**, diving into **C++** and gradually e
 
 I've been exploring **PC hardware since 2019**, building and optimizing rigs, experimenting with **overclocking, benchmarking, and custom cooling solutions**, and doing **personal case modding** to push both performance and aesthetics.  
 
-I like looking under the hood of systems, figuring out how they work, and seeing if I can make them better.<br/>
-I have a dream I’m working toward, and I’ll do everything I can to make it happen.
+I like looking under the hood of systems, figuring out how they **work**, and seeing if I can make them better.<br/>
+I have a dream I’m working toward, and I’ll do everything I can to make it **happen**.
 
 ---
 
