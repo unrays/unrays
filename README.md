@@ -36,7 +36,7 @@ I have a dream I’m working toward, and I’ll do everything I can to make it *
 **Other Interests:**  
 ![PC Hardware](https://img.shields.io/badge/PC-Hardware-6A5ACD?style=for-the-badge)  
 ![Compile-Time Magic](https://img.shields.io/badge/TMP-C%2B%2B-FF69B4?style=for-the-badge)  
-![Hi-Fi Audio](https://img.shields.io/badge/Hi--Fi_Audio-FF4500?style=for-the-badge)
+![Hi-Fi Audio](https://img.shields.io/badge/Hi--Fi_Audio-AAAAAA?style=for-the-badge&logo=audio)
 
 ---
 
