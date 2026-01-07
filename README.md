@@ -30,7 +30,7 @@ I like looking under the hood of systems, figuring out how they work, and seeing
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=amd&logoColor=white)
 
 **Tools & Frameworks:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![SDL2](https://img.shields.io/badge/SDL2-35495E?style=for-the-badge&logo=sdl&logoColor=white) ![SDL3](https://img.shields.io/badge/SDL3-1C1C1C?style=for-the-badge&logo=sdl&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![SDL2](https://img.shields.io/badge/SDL2-35495E?style=for-the-badge&logo=sdl&logoColor=white) ![SDL3](https://img.shields.io/badge/SDL3-1C1C1C?style=for-the-badge&logo=sdl&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![3DMark](https://img.shields.io/badge/3DMark-FF6600?style=for-the-badge&logo=3dmark&logoColor=white) ![Ableton](https://img.shields.io/badge/Ableton-000000?style=for-the-badge&logo=ableton&logoColor=white)
 
 **Other Interests:**  
 ![PC Hardware](https://img.shields.io/badge/PC-Hardware-6A5ACD?style=for-the-badge)  
