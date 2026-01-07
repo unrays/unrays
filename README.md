@@ -1,8 +1,3 @@
-# Hey, I'm Félix 👋
-C++ template & meta-programmer who also loves cats
-
----
-
 ## 🧑‍💻 About Me
 
 I'm **Félix**, 19, studying *Computer Science* at Cégep de Rimouski (DEC-BAC).  
