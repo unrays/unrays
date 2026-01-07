@@ -32,7 +32,10 @@ I like looking under the hood of systems, figuring out how they work, and seeing
 **Tools & Frameworks:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)  
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)  
+![SDL2](https://img.shields.io/badge/SDL2-35495E?style=for-the-badge&logo=sdl&logoColor=white)  
+![SDL3](https://img.shields.io/badge/SDL3-1C1C1C?style=for-the-badge&logo=sdl&logoColor=white)  
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Other Interests:**  
 ![PC Hardware](https://img.shields.io/badge/PC-Hardware-6A5ACD?style=for-the-badge)  
