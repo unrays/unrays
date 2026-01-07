@@ -56,7 +56,7 @@ I have a dream I’m working toward, and I’ll do everything I can to make it *
 
 ## 📫 Contact
 - GitHub: [https://github.com/unrays](https://github.com/unrays)  
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [contact@lunary.ca](mailto:contact@lunary.ca)
 
 ---
 
