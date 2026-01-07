@@ -57,4 +57,4 @@ I have a dream I’m working toward, and I’ll do everything I can to make it *
 ## 📫 Contact
 - Email: [contact@lunary.ca](mailto:contact@lunary.ca)  
 - LinkedIn: [Félix-Olivier Dumas](https://www.linkedin.com/in/f%C3%A9lix-olivier-dumas-825231394/)
-- Discord: ferikessu ![cat](https://placekitten.com/30/30)
+- Discord: [ferikessu]([https://discord.com/users/TON_ID](https://i.pinimg.com/originals/94/f0/65/94f0653d30bd368e5dfe492f0f60e01e.gif))
