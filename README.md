@@ -1,7 +1,7 @@
 ## 🧑‍💻 About Me
 
 I'm **Félix**, 19, studying *Computer Science* at Cégep de Rimouski (DEC-BAC) while mostly **self-taught**.  
-I spend **4–8 hours a day coding**, learning through projects, experimentation, and exploration.
+I spend most of my time coding, watching **CppCon**, and working my way toward **SSL in Rocket League**.
 
 I've had over **11 years of piano experience**, including several years at the conservatory, and I studied classical music in depth. I have a strong passion for **baroque music**, especially JS Bach.
 
