@@ -12,6 +12,8 @@ I've been exploring **PC hardware since 2019**, building and optimizing rigs, ex
 
 I like looking under the hood of systems, figuring out how they work, and seeing if I can make them better.
 
+I have a dream I’m working toward, and I’ll do everything I can to make it happen.
+
 ---
 
 ## 💻 Skills
