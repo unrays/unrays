@@ -60,6 +60,3 @@ I have a dream I’m working toward, and I’ll do everything I can to make it *
 - Discord: ferikessu
 
 ---
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=unrays&show_icons=true&theme=radical)
