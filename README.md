@@ -9,7 +9,7 @@ I'm **Félix**, 19, studying *Computer Science* at Cégep de Rimouski (DEC-BAC).
 I'm mostly **self-taught**, learning through projects, experimentation, and exploration.
 
 
-I've had over **10 years of piano experience**, including several years at the conservatory, and I studied classical music in depth. I have a strong passion for **baroque music**, especially JS Bach.
+I've had over **11 years of piano experience**, including several years at the conservatory, and I studied classical music in depth. I have a strong passion for **baroque music**, especially JS Bach.
 
 
 I started programming in **September 2023**, diving into **C++** and gradually exploring more advanced techniques. I began experimenting with **ECS engines in mid-October 2025** and **compile-time C++ techniques (TMP, CRTP, etc.) in mid-November 2025**, and I've been exploring them ever since.
