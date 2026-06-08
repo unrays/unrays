@@ -1,59 +1,118 @@
-## 🧑‍💻 About Me
-
-I'm **Félix**, 19, studying *Computer Science* at Cégep de Rimouski (DEC-BAC) while mostly **self-taught**.  
-I spend most of my time coding, watching **CppCon**, and listening to Bach's music.
-
-I've had over **11 years of piano experience**, including several years at the conservatory, and I studied classical music in depth. I have a strong passion for **baroque music**, especially JS Bach.
-
-
-I started programming in **September 2023**, diving into **C++** and gradually exploring more advanced techniques. I began experimenting with **ECS engines in mid-October 2025** and **compile-time C++ techniques (TMP, CRTP, etc.) in mid-November 2025**, and I've been exploring them ever since.
-
-I've been exploring **PC hardware since 2019**, building and optimizing rigs, experimenting with **overclocking, benchmarking, and custom cooling solutions**, and doing **personal case modding** to push both performance and aesthetics.  
-
-I like looking under the hood of systems, figuring out how they **work**, and seeing if I can make them better.<br/>
-I have a dream I’m working toward, and I’ll do everything I can to make it **happen**.
-
----
-
-## 💻 Skills
-
-**Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=amd&logoColor=white)
-
-**Tools & Frameworks:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) ![SDL2](https://img.shields.io/badge/SDL2-35495E?style=for-the-badge&logo=sdl&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Other Interests:**  
-![PC Hardware](https://img.shields.io/badge/PC-Hardware-6A5ACD?style=for-the-badge)  
-![Compile-Time Magic](https://img.shields.io/badge/TMP-C%2B%2B-FF69B4?style=for-the-badge)  
-
----
-
-## 🚀 Projects
-
-| Project | Description |
-|---------|-------------|
-| [Linkly](https://github.com/unrays/Linkly) | C++ compile‑time library for building type‑safe operator pipelines and custom DSLs. |
-| [Mixin](https://github.com/unrays/Mixin) | Experimental compile‑time ECS engine using CRTP mixin stacks and zero‑overhead system pipelines. |
-| [Exotic](https://github.com/unrays/Exotic) | Meta‑programming focused ECS engine exploring advanced component patterns. |
-| [Wave](https://github.com/unrays/Wave) | High‑performance minimal C++ ECS designed for cache‑friendly entity management. |
-| [Apex](https://github.com/unrays/Apex) | Step‑by‑step ECS experiments in C#. |
-| [Quark](https://github.com/unrays/Quark) | Modular C# game engine with service‑oriented architecture for event‑based systems. |
+<div align="center">
 
 
 
----
+<img src="https://media1.giphy.com/media/leuNkvf9pE6loEnjnb/source.gif" width="175">
 
-## 📫 Contact
-- LinkedIn: [Félix-Olivier Dumas](https://www.linkedin.com/in/f%C3%A9lix-olivier-dumas-825231394/)
-- Discord: [ferikessu](https://i.pinimg.com/originals/94/f0/65/94f0653d30bd368e5dfe492f0f60e01e.gif)
+<h1>std::cout << "Hey, I'm Félix-Olivier Dumas\n" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
+
+### C++ Systems Programmer | Compiler & Library Architect | Template Metaprogramming Wizard
+<p>
+
+
+Focused on <b>high-performance C++</b>, <b>data-oriented design</b>, <br><b>compile-time metaprogramming</b>, <b>ECS architecture</b>, and <b>lock-free concurrent systems</b>.<br>
+Architect of <b>Prysma</b>, a high-performance compiler ecosystem leveraging LLVM.<br>
+
+
+Author of <b>Exotic CRTP</b>, an <b>experimental</b> C++ pattern for static polymorphism
+
+</p>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+
+</div>
+
+
+
+
+
+
+## using whoami = std::type_identity&lt;unrays&gt;;
+
+* Computer Science **Technician (DEC)** at **Cégep de Rimouski**
+* Self-taught **C++ systems development** since 2023
+* Work focused on **compilers**, **ECS architectures**, and **low-level performance-oriented design**
+* 11+ years of classical piano study (conservatory background, with emphasis on Baroque repertoire)
+* Interest in **system-level software design**, **compiler internals**, and **performance-critical architectures**
+
+
+
+<br>
+
+
+
+## languages_i_am_familiar_with();
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>[ 0x01 ] LOW-LEVEL & SYSTEMS</b><br><br>
+      <img src="https://skillicons.dev/icons?i=cpp,c,rust,asm" /><br><br>
+      <code>C++</code> &nbsp; <code>C</code> &nbsp; <code>Assembly</code>
+    </td>
+     <td width="50%" valign="top">
+      <b>[ 0x02 ] MANAGED & LOGIC</b><br><br>
+      <img src="https://skillicons.dev/icons?i=cs,java,py,dart" /><br><br>
+      <code>C#</code> &nbsp; <code>Java</code> &nbsp; <code>Python</code> &nbsp; <code>Dart</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>[ 0x03 ] WEB & INTERFACE</b><br><br>
+      <img src="https://skillicons.dev/icons?i=ts,js,html,css" /><br><br>
+      <code>TypeScript</code> &nbsp; <code>JavaScript</code> &nbsp; <code>HTML5</code> &nbsp; <code>CSS3</code>
+    </td>
+   <td width="50%" valign="top">
+      <b>[ 0x04 ] ANALYTICS</b><br><br>
+     
+   <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=unrays&theme=radical&bg_color=00000000&theme=transparent" />
+  </a>
+  </tr>
+</table>
+
+<br>
+
+
+## auto skills = get_skills&lt;programming&gt;(felix);
+* **Data-Oriented Design:** cache-aware systems, SoA/AoS layouts, allocator-driven architectures
+* **ECS Architecture:** custom engines, experimental and hybrid ECS models
+* **Compile-Time C++:** template metaprogramming (TMP), CRTP, type-driven design systems
+* **Memory & Performance Engineering:** allocators, arena systems, cache optimization, memory layout design
+* **Compiler Construction:** AST design, IR concepts, backend experimentation, language tooling
+* **Concurrency & Systems Programming:** multithreaded design, lock-free and concurrent system architectures
+* **Software Design & Pattern Engineering:** development and exploration of experimental C++ patterns and abstractions
+* **Systems-Level Design:** low-level architecture focused on performance, control, and minimal abstraction overhead
+<br>
+
+
+## context::get&lt;tooling&gt;(self);
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=windows,linux,git,docker,vscode,ps,unreal,cmake" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" height="48">
+  <img src="https://img.shields.io/badge/SDL2-35495E?style=for-the-badge&logo=sdl&logoColor=white" height="48">
+</div>
+
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+
+
+
+## Contact information
+**LinkedIn:** [Félix-Olivier Dumas](https://www.linkedin.com/in/f%C3%A9lix-olivier-dumas-825231394/) <br>
+**Discord:** `ferikessu`
+
+
+
+
+
+
