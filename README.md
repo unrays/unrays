@@ -10,11 +10,9 @@
 <p>
 
 
-Focused on <b>high-performance C++</b>, <b>data-oriented design</b>, <br><b>compile-time metaprogramming</b>, <b>ECS architecture</b>, and <b>lock-free concurrent systems</b>.<br>
+Focused on <b>high-performance C++</b>, <b>data-oriented design</b>, <br><b>compile-time metaprogramming</b>, <b>ECS architecture</b>, and <b>lock-free concurrent systems</b>.<br><br>
 Architect of <b>Prysma</b>, a high-performance compiler ecosystem leveraging LLVM.<br>
-
-
-Author of <b>Exotic CRTP</b>, an <b>experimental</b> C++ pattern for static polymorphism
+Author of <b>Exotic CRTP</b>, an <b>experimental</b> C++ pattern for static polymorphism.
 
 </p>
 
