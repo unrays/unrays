@@ -5,14 +5,13 @@
 <img src="https://media1.giphy.com/media/leuNkvf9pE6loEnjnb/source.gif" width="175">
 
 <h1>std::cout << "Hey, I'm Félix-Olivier Dumas\n" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
-
-### C++ Systems Programmer | Compiler & Library Architect | Template Metaprogramming Wizard
-
+  
 ### C++ Systems Programmer | Compiler & Library Developer | Template Metaprogramming
+
 <p>
 
+Focused on <b>high-performance C++</b>, <b>experimental design</b>, <b>compile-time metaprogramming,<br> <b>low-level memory management</b>, and <b>concurrent systems programming</b>.<br><br>
 
-Focused on <b>high-performance C++</b>, <b>data-oriented design</b>, <b>compile-time metaprogramming</b>,<br> <b>ECS architecture</b>, and <b>lock-free concurrent systems</b>.<br><br>
 Architect of <b>Prysma</b>, a high-performance compiler ecosystem leveraging LLVM.<br>
 Author of <b>Exotic CRTP</b>, an <b>experimental</b> C++ pattern for static polymorphism.
 
