@@ -7,6 +7,8 @@
 <h1>std::cout << "Hey, I'm Félix-Olivier Dumas\n" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
 
 ### C++ Systems Programmer | Compiler & Library Architect | Template Metaprogramming Wizard
+
+### C++ Systems Programmer | Compiler & Library Developer | Template Metaprogramming
 <p>
 
 
