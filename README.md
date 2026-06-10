@@ -30,7 +30,7 @@ Author of <b>Exotic CRTP</b>, an <b>experimental</b> C++ pattern for static poly
 
 
 
-## using whoami = std::type_identity&lt;unrays&gt;;
+## using whoami = std::type_identity_t&lt;unrays&gt;;
 
 * Computer Science **Technician (DEC)** at **Cégep de Rimouski**
 * Self-taught **C++ systems development** since 2023
