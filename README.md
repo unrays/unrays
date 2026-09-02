@@ -18,6 +18,9 @@ Author of <b>Exotic CRTP</b>, an <b>experimental</b> C++ pattern for static poly
 Also author of the <b>[Static Polymorphic Overlay Pattern](https://medium.com/@felixolivierdumas/static-interface-projection-pattern-sipp-contr%C3%B4le-statique-de-lexposition-des-m%C3%A9thodes-en-c-b80ed8044a7c) (SPO)</b>.
 
 
+Author of both [Exotic CRTP](https://medium.com/@felixolivierdumas/exotic-crtp-rethinking-static-polymorphism-with-c-23-89f9e75e8ffd) and [Static Polymorphic Overlay Pattern](https://medium.com/@felixolivierdumas/static-interface-projection-pattern-sipp-contr%C3%B4le-statique-de-lexposition-des-m%C3%A9thodes-en-c-b80ed8044a7c), two experimental C++ patterns for static polymorphism.
+
+
 
 
 </p>
