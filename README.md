@@ -15,9 +15,9 @@ Focused on <b>high-performance C++</b>, <b>experimental design</b>, <b>compile-t
 Architect of <b>Prysma</b>, a high-performance compiler ecosystem leveraging LLVM.<br>
 
 Author of <b>Exotic CRTP</b>, an <b>experimental</b> C++ pattern for static polymorphism.<br>
-Also author of the <b>Static Polymorphic Overlay Pattern (SPO)</b>.
+Also author of the <b>[Static Polymorphic Overlay Pattern](https://medium.com/@felixolivierdumas/static-interface-projection-pattern-sipp-contr%C3%B4le-statique-de-lexposition-des-m%C3%A9thodes-en-c-b80ed8044a7c) (SPO)</b>.
 
-[Static Polymorphic Overlay Pattern](https://medium.com/@felixolivierdumas/static-interface-projection-pattern-sipp-contr%C3%B4le-statique-de-lexposition-des-m%C3%A9thodes-en-c-b80ed8044a7c)
+
 
 
 </p>
