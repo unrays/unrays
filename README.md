@@ -15,7 +15,7 @@ Focused on <b>high-performance C++</b>, <b>experimental design</b>, <b>compile-t
 Architect of <b>Prysma</b>, a high-performance compiler ecosystem leveraging LLVM.<br>
 
 Author of <b>Exotic CRTP</b>, an <b>experimental</b> C++ pattern for static polymorphism.<br>
-Author of <b>Static Polymorphic Overlay Pattern (SPO)</b>, an experimental C++ pattern for static polymorphic overlays.
+Also author of <b>Static Polymorphic Overlay Pattern (SPO)</b>.
 
 
 </p>
