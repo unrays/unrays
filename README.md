@@ -1,8 +1,6 @@
 <div align="center">
 
-Maybe I’m flexing a little too hard here 💀
-
-**WARNING:** This profile may contain slightly excessive levels of self-promotion. 💀
+**DISCLAIMER:** This profile may contain slightly excessive levels of self-promotion. 💀
 
 
 
