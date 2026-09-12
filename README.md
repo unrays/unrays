@@ -12,8 +12,7 @@ Maybe I’m flexing a little too hard here 💀
 
 Focused on <b>high-performance C++</b>, <b>experimental design</b>, <b>compile-time metaprogramming,<br> <b>low-level memory management</b>, and <b>concurrent systems programming</b>.<br><br>
 
-Architect of <b>Prysma</b>, a high-performance compiler ecosystem leveraging LLVM.<br>
-
+Lead Maintainer of <b>Prysma</b>, a high-performance LLVM programming language and compiler.<br>
 
 
 
