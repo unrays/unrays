@@ -2,6 +2,10 @@
 
 Maybe I’m flexing a little too hard here 💀
 
+**WARNING:** This profile may contain slightly excessive levels of self-promotion.
+
+
+
 <img src="https://media1.giphy.com/media/leuNkvf9pE6loEnjnb/source.gif" width="175">
 
 <h1>std::cout << "Hey, I'm Félix-Olivier Dumas\n" <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
