@@ -2,7 +2,7 @@
 
 Maybe I’m flexing a little too hard here 💀
 
-**WARNING:** This profile may contain slightly excessive levels of self-promotion.
+**WARNING:** This profile may contain slightly excessive levels of self-promotion. 💀
 
 
 
