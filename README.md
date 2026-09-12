@@ -1,6 +1,6 @@
 <div align="center">
 
-**DISCLAIMER:** This profile may contain slightly excessive levels of self-promotion. 💀
+**DISCLAIMER:** This README is perhaps a little more self-important than necessary. 💀
 
 
 
