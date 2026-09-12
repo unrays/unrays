@@ -53,7 +53,7 @@ Creator and author of [Exotic CRTP](https://medium.com/@felixolivierdumas/exotic
   <tr>
     <td width="50%" valign="top">
       <b>[ 0x01 ] LOW-LEVEL & SYSTEMS</b><br><br>
-      <img src="https://skillicons.dev/icons?i=cpp,c,rust,asm" /><br><br>
+      <img src="https://skillicons.dev/icons?i=cpp,c,asm" /><br><br>
       <code>C++</code> &nbsp; <code>C</code> &nbsp; <code>Assembly</code>
     </td>
      <td width="50%" valign="top">
