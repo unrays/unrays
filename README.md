@@ -1,6 +1,6 @@
 <div align="center">
 
-DISCLAIMER: I'm flexing a bit too hard in this README fr. 💀
+DISCLAIMER: I'm flexing a bit too hard in this README, I really need to change that frfr 💀
 
 
 
