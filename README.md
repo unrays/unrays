@@ -17,7 +17,7 @@ Focused on <b>high-performance C++</b>, <b>experimental design</b>, <b>compile-t
 Lead Maintainer of <b>Prysma</b>, a high-performance LLVM programming language and compiler.<br>
 
 
-Creator and author of [Exotic CRTP](https://medium.com/@felixolivierdumas/exotic-crtp-rethinking-static-polymorphism-with-c-23-89f9e75e8ffd) and [Subobject Polymorphic Overlay Pattern](https://medium.com/@felixolivierdumas/subobject-polymorphic-overlay-pattern-spo-an-architectural-idiom-for-static-polymorphism-c791503fba78)<br>two experimental C++ patterns for static polymorphism.<br>
+Creator and author of [Exotic CRTP](https://medium.com/@felixolivierdumas/exotic-crtp-rethinking-static-polymorphism-with-c-23-89f9e75e8ffd) and [Subobject Polymorphic Overlay Pattern](https://levelup.gitconnected.com/subobject-polymorphic-overlay-pattern-spo-an-architectural-idiom-for-static-polymorphism-af24a5847f95)<br>two experimental C++ patterns for static polymorphism.<br>
 
 
 </p>
