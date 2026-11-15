@@ -2,9 +2,21 @@
 
 I'm a computer science student from Québec, Canada. I'm mostly interested in **modern C++, compiler engineering, systems programming, and computer architecture**.
 
+
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Creator+of+Exotic+CRTP+%26+SPO;Modern+C%2B%2B+%26+Systems+Programming;Template+Metaprogramming;Compiler+Engineering;Concurrency+%26+Memory+Models;SIMD+%26+Vectorization;CPU+Microarchitecture" alt="Typing Animation" />
+  <picture>
+    <source
+      media="(max-width: 600px)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;center=true&amp;vCenter=true&amp;width=360&amp;lines=Creator:+Exotic+CRTP+%26+SPO;Modern+C%2B%2B+%26+Systems;Template+Metaprogramming;Compiler+Engineering;Concurrency+%26+Memory;SIMD+%26+Vectorization;CPU+Microarchitecture"
+    />
+
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1200&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Creator+of+Exotic+CRTP+%26+SPO;Modern+C%2B%2B+%26+Systems+Programming;Template+Metaprogramming;Compiler+Engineering;Concurrency+%26+Memory+Models;SIMD+%26+Vectorization;CPU+Microarchitecture"
+      alt="Typing Animation"
+    />
+  </picture>
 </p>
+
 
 My technical interests lie at the intersection of **programming languages, compiler technology, and computer architecture**, with a particular emphasis on understanding how software abstractions translate into machine-level behavior.
    
