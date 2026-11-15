@@ -7,7 +7,7 @@ I'm a computer science student from Québec, Canada. I'm mostly interested in **
 
 <p align="center">
 <picture>
-<source media="(max-width: 620px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;color=FB016B&amp;pause=1200&amp;center=true&amp;vCenter=true&amp;width=360&amp;lines=Creator+of+Exotic+CRTP+%26+SPO;Modern+C%2B%2B+%26+Systems;Template+Metaprogramming;Compiler+Engineering;Concurrency+%26+Memory;SIMD+%26+Vectorization;CPU+Microarchitecture" />
+<source media="(max-width: 615px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;color=FB016B&amp;pause=1200&amp;center=true&amp;vCenter=true&amp;width=360&amp;lines=Creator+of+Exotic+CRTP+%26+SPO;Modern+C%2B%2B+%26+Systems;Template+Metaprogramming;Compiler+Engineering;Concurrency+%26+Memory;SIMD+%26+Vectorization;CPU+Microarchitecture" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;color=FB016B&amp;pause=1200&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Creator+of+Exotic+CRTP+%26+SPO;Modern+C%2B%2B+%26+Systems+Programming;Template+Metaprogramming;Compiler+Engineering;Concurrency+%26+Memory+Models;SIMD+%26+Vectorization;CPU+Microarchitecture" alt="Typing Animation" />
 </picture>
 </p>
