@@ -24,6 +24,10 @@ A significant part of my independent study and experimentation focuses on **CPU 
 
 I enjoy investigating the relationship between **C++ source code, compiler optimizations, generated assembly, and execution at the microarchitectural level**, particularly where memory access patterns, instruction-level parallelism, and hardware constraints influence performance.
 
+I started programming in 2023 and exploring modern C++ in fall 2025. 
+
+I’ve studied classical piano for 10+ years, including several at the Conservatoire de musique de Rimouski. I have a huge obsession with J. S. Bach.
+
 Outside of programming, I'm a classically trained pianist with a particular obsession for Baroque music, especially J. S. Bach. 
  
 **[LinkedIn](https://ca.linkedin.com/in/f%C3%A9lix-olivier-dumas-825231394)** · **Discord:** `ferikessu`
