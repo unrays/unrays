@@ -1,9 +1,6 @@
 # Hi, I'm Félix-Olivier Dumas
 
-I’m a computer science student from Québec, Canada. I started programming in fall 2023 during my DEC in Computer Science and began exploring modern C++ in fall 2025. 
-
-I’m mostly interested in modern C++, compiler engineering, systems programming, and computer architecture.
-
+I’m a computer science student from Québec, Canada. I started programming in fall 2023 during my DEC in Computer Science and began exploring modern C++ in fall 2025.
 
 <p align="center">
 <picture>
